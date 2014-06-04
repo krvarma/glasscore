@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">glasscore</string>
+	<string name="on_trigger">Light on</string>
+	<string name="off_trigger">Light off</string>
+
+</resources>
